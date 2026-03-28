@@ -24,12 +24,12 @@ The analysis is focused on questions such as:
 - descriptive analysis
 - correlation / relationship analysis
 
-## Files in this repository
+## Repository structure
 - `README.md` – project overview
-- `source_data.xlsx` – source dataset used for the analysis
-- `final_report.pdf` – final analytical report
-- `project_brief_cz.pdf` – project brief in Czech
-- `project_brief_en.pdf` – project brief in English
+- `data/source_data.xlsx` – source dataset used for the analysis
+- `docs/project_brief_cz.md` – project brief in Czech
+- `docs/project_brief_en.md` – project brief in English
+- `outputs/final_report.pdf` – final analytical report
 
 ## Skills demonstrated
 - Excel data analysis
