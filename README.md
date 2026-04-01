@@ -26,7 +26,9 @@ The analysis is focused on questions such as:
 
 ## Repository structure
 - `README.md` – project overview
-- `data/source_data.xlsx` – source dataset used for the analysis
+- `data/cars.xlsx` – source dataset used for the analysis
+- `data/cars_engine.xlsx` – source dataset used for the analysis
+- `data/cars_name.xlsx` – source dataset used for the analysis
 - `docs/project_brief_cz.md` – project brief in Czech
 - `docs/project_brief_en.md` – project brief in English
 - `outputs/final_report.pdf` – final analytical report
