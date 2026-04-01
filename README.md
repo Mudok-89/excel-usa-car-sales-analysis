@@ -32,6 +32,7 @@ The analysis is focused on questions such as:
 - `docs/project_brief_cz.md` – project brief in Czech
 - `docs/project_brief_en.md` – project brief in English
 - `outputs/final_report.pdf` – final analytical report
+- `outputs/final_report_excel.xlsx` – final report in Excel with procedures
 
 ## Skills demonstrated
 - Excel data analysis
